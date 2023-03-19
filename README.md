@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-- [Live Demo]()
+- [Live Demo](https://urlmin.vercel.app/)
 
 # Show your support
 
